@@ -1,3 +1,3 @@
 <?php
 
-echo "Hola Planeta Tierra";
+echo "Hola Planeta Marte";
